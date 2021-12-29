@@ -23,7 +23,7 @@ PinballX|PinballX |5.33 | Dec 2021 https://forums.gameex.com/forums/files/file/5
 
 PinballY |1.1 |May 2021 http://mjrnet.org/pinscape/PinballY.php 
 
-Pinscape Configuration Tool |3933 |December 2021 http://mjrnet.org/pinscape/swversions.php
+Pinscape Configuration Tool |December 2021 http://mjrnet.org/pinscape/swversions.php
 
 PinUP Player|PinUP Player |1.4.5 |June 2020 https://www.nailbuster.com/wikipinup/doku.php?id=install_guide 
 
