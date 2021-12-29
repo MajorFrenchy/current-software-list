@@ -39,6 +39,6 @@ UltraDMD |1.4.16050500 |May 2016 https://ultradmd.wordpress.com/download/
 
 Visual Pinball |10.6 |October 2019 https://vpinball.com/VPBdownloads/vpx-installer-10-6-0/  All in one : https://bit.ly/3ewD8Vy 
  
-Visual Pinball |10.7 | Beta 359 | https://www.vpforums.org/index.php?showtopic=44135 
+Visual Pinball |10.7.0 | Final https://www.vpforums.org/index.php?app=downloads&showfile=11573 
 
 Vpinmame |3.4 |Dec 2021 https://www.vpforums.org/index.php?app=downloads&showfile=11571 
