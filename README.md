@@ -1,4 +1,4 @@
-# currentsoftware
+# current software List
 
 Arduino |1.8.19 |Dec 2021 https://www.arduino.cc/en/Main/Software 
 
