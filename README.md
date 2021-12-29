@@ -1,4 +1,5 @@
 # Current software list
+( Maintained and upadated on the VPC Discord chat https://bit.ly/virtualpinball )
 
 Arduino |1.8.19 |Dec 2021 https://www.arduino.cc/en/Main/Software 
 
