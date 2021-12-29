@@ -21,7 +21,7 @@ Freezy DMD Extensions|DMDExt(Freezy) |1.8 |May 2020 https://github.com/freezy/dm
 
 Future Pinball |1.9.1.20101231 |December 2010 https://futurepinball.com/download.html 
 
-PinballX|PinballX |5.33 | Dec 2021 https://forums.gameex.com/forums/files/file/527-pinballx/ 
+PinballX|5.33 | Dec 2021 https://forums.gameex.com/forums/files/file/527-pinballx/ 
 
 PinballY |1.1 |May 2021 http://mjrnet.org/pinscape/PinballY.php 
 
